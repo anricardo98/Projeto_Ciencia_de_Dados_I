@@ -5,10 +5,10 @@
    - eleicoes.csv: dataset utilizado nos exercícios.
    
 - Autores:
-    - ALVARO FERREIRA PIRES DE PAIVA;
-    - ANDRÉ RICARDO CÂNDIDO SILVA;
-    - IGOR BARBOSA NOGUEIRA;
-    - PATRICIA SAYONARA GOES DE ARAUJO.
+    - ALVARO FERREIRA PIRES DE PAIVA, e-mail: alvarofepipa@gmail.com
+    - ANDRÉ RICARDO CÂNDIDO SILVA, e-mail: anricardo98@hotmail.com
+    - IGOR BARBOSA NOGUEIRA, e-mail: igornogueir@gmail.com
+    - PATRICIA SAYONARA GOES DE ARAUJO, e-mail: patysayonara28@gmail.com
 
 - Os exercícios desenvolvidos neste projeto foram projetados em conjunto pelos autores, sendo a resolução das questões atribuída da seguinte forma:
     - Exercício 1: ALVARO FERREIRA PIRES DE PAIVA, ANDRÉ RICARDO CÂNDIDO SILVA, IGOR BARBOSA NOGUEIRA e PATRICIA SAYONARA GOES DE ARAUJO;
