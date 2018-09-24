@@ -1,6 +1,6 @@
 # Projeto_Ciencia_de_Dados_I
 Este repositório contém os arquivos referentes ao desenvolvimento do projeto 01 da disciplina Ciência de Dados I, os quais são os respectivos:
-   - Projeto_Eleicoes.ipynb : notebook contendo os exercícios do projeto;
+   - Projeto_Eleicoes.ipynb: notebook contendo os exercícios do projeto;
    - Respostas.ipynb: notebook contendo as respostas desenvolvidas pelos autores, com o intuito de esclarecer dúvidas;
    - eleicoes.csv: dataset utilizado nos exercícios.
 
